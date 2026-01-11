@@ -1,17 +1,20 @@
 # Supermarket Management System (Database Project)
 
-A database project for managing a supermarket system, including branches, staff, suppliers, customers, products, dependents, and phone tables.
+An academic database project for managing a supermarket system, including branches, staff, suppliers, customers, products, dependents, and phone tables.
 
-## ✅ What I Did
-- Designed the ERD and mapped it to a relational schema
-- Implemented tables with PK/FK constraints
-- Inserted sample data (tuples)
+## 👥 Team Project
+This was a **group academic project** completed as part of the Database Systems course.
+
+### My Contributions
+- Designed and reviewed the ERD and mapped it to a relational schema
+- Implemented database tables with primary and foreign key constraints
 - Wrote SQL queries (joins, aggregation, filtering, reporting)
+- Assisted in data insertion and validation
 
 ## 📁 Project Structure
 - `sql/` SQL scripts (create tables, insert data, queries)
-- `diagrams/` ERD + relational schema images
-- `docs/` full documentation PDF
+- `diagrams/` ERD and relational schema images
+- `docs/` Full project documentation (PDF)
 
 ## 📐 Diagrams
 ### ERD
@@ -21,9 +24,10 @@ A database project for managing a supermarket system, including branches, staff,
 ![Relational Schema](diagrams/Relational_Schema.png)
 
 ## ▶️ How to Run (Oracle SQL)
-1. Run `sql/01_create_tables.sql`
-2. Run `sql/02_insert_data.sql`
-3. Run `sql/03_queries.sql`
+1. Execute `sql/01_create_tables.sql`
+2. Execute `sql/02_insert_data.sql`
+3. Execute `sql/03_queries.sql`
 
-## 🛠 Tech
-SQL (Oracle-style)
+## 🛠 Technologies
+- SQL (Oracle-style)
+- ERD & Relational Database Design
